@@ -8,6 +8,7 @@ I'm currently active in Project Developer at <a href="https://elitech.id/">PT Si
 ### Tech Stack
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" /></a>
+<a href="https://vuejs.org/"><img align="left" alt="VueJS" title="VueJS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="https://wordpress.com"><img align="left" alt="Wordpress" title="Wordpress" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="Wordpress" title="Wordpress" width="21px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" /></a><br><br>
 
