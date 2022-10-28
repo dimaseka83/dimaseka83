@@ -1,6 +1,6 @@
 ### Hi ! 👋 I'm Dhimas.
 
-And Independent who loves to create and share projects about web and mobile technology! I've enjoyed PHP Laravel on Web and Flutter Dart on Android and make it the main language in creating a project.
+And Independent who loves to create and share projects about web and mobile technology! I've enjoyed NuxtJS and VueJS on Web and Flutter Dart on Android and make it the main language in creating a project.
 
 I'm currently active in Project Developer at <a href="https://elitech.id/">PT Sinko Prima Alloy</a> to develop ERP System.
 
